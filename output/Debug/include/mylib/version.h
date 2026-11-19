@@ -1,0 +1,12 @@
+#ifndef MYLIB_VERSION_H
+#define MYLIB_VERSION_H
+
+#define MYLIB_VERSION_MAJOR 0
+#define MYLIB_VERSION_MINOR 1
+#define MYLIB_VERSION_PATCH 0
+#define MYLIB_VERSION_STRING "0.1.0"
+
+#define MYLIB_VERSION_NUM \
+    (0 * 10000 + 1 * 100 + 0)
+
+#endif // MYLIB_VERSION_H
